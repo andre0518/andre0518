@@ -1,5 +1,3 @@
-[Banner](github-banner-andreina.jpg)
-
 # 👋 Hola, soy Andreina Moreno Franco
 **Data Scientist en transición | Python | SQL | Power BI | Pandas | Git | Jupyter | Matplotlib | Scikit-learn | Streamlit**
 
